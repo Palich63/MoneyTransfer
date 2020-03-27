@@ -11,7 +11,7 @@
 
 ## Результаты
 
-1. [Issue](https://github.com/Palich63/MoneyTransfer/issues/1)
+1. [Баг-репорт](https://github.com/Palich63/MoneyTransfer/issues/2)
 
 ## Общие рекомендации
 
